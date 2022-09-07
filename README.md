@@ -1,2 +1,3 @@
 # my-first-repo
-![julie heuff](![image](https://user-images.githubusercontent.com/113039911/188907206-4550f41d-338e-41c3-93bc-0fb35822944e.png))
+![julie heuff](![image](https://user-images.githubusercontent.com/113039911/188907373-abdf47ec-8661-4cee-878c-28194cb7bbd0.png))
+
